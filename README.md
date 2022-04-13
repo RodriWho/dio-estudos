@@ -1,2 +1,2 @@
-# dio-estudos
-Repositorio criado para armazenar estudos na DIO
+# DIO Estudos
+ - Repositorio criado para armazenar estudos na DIO
